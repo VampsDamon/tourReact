@@ -1,0 +1,17 @@
+.card{
+    box-shadow: 3px 3px 5px rgba(128, 128, 128, 0.656);
+    padding: .7rem;
+    margin-bottom: 10px;
+    width: 320px;
+    border-radius: 15px;
+}
+/* .img{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+} */
+.img img{
+    width: 330px;
+    height: 250px;
+    object-fit:cover;
+}
